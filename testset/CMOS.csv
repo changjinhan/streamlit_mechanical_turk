@@ -1,0 +1,11 @@
+src_audio_url,test_audio_url,original_text
+testset/CMOS/1_main_audio.wav,testset/CMOS/1_ablation1_audio.wav,"Of course we make mistakes, but we don't make too many."
+testset/CMOS/1_main_audio.wav,testset/CMOS/1_ablation2_audio.wav,"Of course we make mistakes, but we don't make too many."
+testset/CMOS/2_main_audio.wav,testset/CMOS/2_ablation1_audio.wav,Western countries condemned the conduct of the poll.
+testset/CMOS/2_main_audio.wav,testset/CMOS/2_ablation2_audio.wav,Western countries condemned the conduct of the poll.
+testset/CMOS/3_main_audio.wav,testset/CMOS/3_ablation2_audio.wav,It's also important that they are not seen as a soft option.
+testset/CMOS/3_main_audio.wav,testset/CMOS/3_ablation1_audio.wav,It's also important that they are not seen as a soft option.
+testset/CMOS/4_main_audio.wav,testset/CMOS/4_ablation2_audio.wav,"I've learned a lot, and tomorrow is another day."
+testset/CMOS/4_main_audio.wav,testset/CMOS/4_ablation1_audio.wav,"I've learned a lot, and tomorrow is another day."
+testset/CMOS/5_main_audio.wav,testset/CMOS/5_ablation1_audio.wav,They did not replace it with a conviction for culpable homicide.
+testset/CMOS/5_main_audio.wav,testset/CMOS/5_ablation2_audio.wav,They did not replace it with a conviction for culpable homicide.

@@ -1,0 +1,11 @@
+ref_audio_url,test_audio_url,original_text
+testset/SMOS/1_ref_audio.wav,testset/SMOS/1_generated_audio.wav,I always felt that I was in control of the match.
+testset/SMOS/1_ref_audio.wav,testset/SMOS/1_gt_audio.wav,I always felt that I was in control of the match.
+testset/SMOS/2_ref_audio.wav,testset/SMOS/2_gt_audio.wav,Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+testset/SMOS/2_ref_audio.wav,testset/SMOS/2_generated_audio.wav,Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+testset/SMOS/3_ref_audio.wav,testset/SMOS/3_generated_audio.wav,Yet the performance was not entirely convincing.
+testset/SMOS/3_ref_audio.wav,testset/SMOS/3_gt_audio.wav,Yet the performance was not entirely convincing.
+testset/SMOS/4_ref_audio.wav,testset/SMOS/4_gt_audio.wav,The compromise is entirely on the arrival at that position.
+testset/SMOS/4_ref_audio.wav,testset/SMOS/4_generated_audio.wav,The compromise is entirely on the arrival at that position.
+testset/SMOS/5_ref_audio.wav,testset/SMOS/5_generated_audio.wav,Some have accepted it as a miracle without physical explanation.
+testset/SMOS/5_ref_audio.wav,testset/SMOS/5_gt_audio.wav,Some have accepted it as a miracle without physical explanation.
